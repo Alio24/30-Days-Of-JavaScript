@@ -65,7 +65,7 @@ const countries = [
   },
   {
     name: 'Antarctica',
-    capital: '',
+    capital: 'Antarctica',
     languages: ['English', 'Russian'],
     population: 1000,
     flag: 'https://restcountries.eu/data/ata.svg',
